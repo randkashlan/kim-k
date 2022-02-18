@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+    <style>
+        body {
+            background-color:rgb(250, 194, 194);
+            text-transform: uppercase;
+            font-family:Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            
+        }
+    </style>
+
+<h1 style="color:rgb(255, 255, 255)">kim k</h1>
+<p style="color: rgb(223, 139, 139); "font-size:large">You're doing amzaing sweetie</p>
+<div class="color:red">
+ <style>
+     
+ </style>
+ <image>
+     <img src="IMG_2474.jpg" 
+     class="center"
+     width="485"
+     height="auto"
+     border="5px solid #555"
+     border-color="white">
+     
+
+      
+      
+     
+     
+    
+ </image>
+ <BR>
+<a href="https://www.instyle.com/news/theo-james-interview-where-he-hangs-out">VISIT OUR HOUSE</a>
+<style>
+    a{
+        color: black;
+    }
+</style>
+
+</body>
+</html>
+
+
